@@ -1,12 +1,11 @@
 {
-  [
-  {
-  "name": "Jacob & Mercy",
-  "family": "Parambath",
-  "message": "Happy 90th birthday! ",
-  "memories": "Old days are golden days of memories with late uncles and aunts 
-  gathering for all celebrations. These memories help us live stronger",
-  "time": "2026-03-28 09:42"
+  "messages": [
+    {
+
+       "name": "Family Name",
+      "text": "Family memory text",
+      "time": "timestamp"
+    }
+  ]
 }
-]
-}
+
